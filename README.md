@@ -237,4 +237,4 @@ This repository serves as the official landing page for Magic The Gathering Onli
 **Get the most recent version of Magic The Gathering Online today!**
 
 ---
-**Last updated:** 2026-09-10 18:02:14 UTC
+**Last updated:** 2026-09-10 21:21:46 UTC
